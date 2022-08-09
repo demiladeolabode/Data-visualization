@@ -7,6 +7,16 @@
 
 The data consists of information regarding 183,412 rows and 15 columns, including, member details, trip duration and time details. The dataset can be found in the repository alongside an html file containing code to the build up of the analysis and a slide presentation.
 
+## Tools and libraries
+For this analysis, python programming language was used on jupyter notebook frame with libraries such as pandas, matplotlib, numpy, seaborn, tweepy
+
+## Files
+Files in the repository include;
+- visualization.ipynb: A python notebook file that contains the code for the analysis
+- trip_presentation.ipynb: A python notebook file that contains the code for the presentation 
+- trip_presentation.slides.html: Slide presentation file, output of trip_presentation.ipynb, should be opened in a web browser
+- 201902-fordgobike-tripdata.csv: The data set used for analysis
+
 
 ## Summary of Findings
 
